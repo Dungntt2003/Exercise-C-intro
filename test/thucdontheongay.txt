@@ -1,0 +1,8 @@
+7
+1 Com_thit_kho 10 0.000000
+2 Com_thit_rang 26 0.000000
+3 Com_ca_ran 9 0.000000
+4 Com_trung_ran 10 0.000000
+5 Com_ca_kho_to 30 0.000000
+6 Com_suon_sot 10 0.000000
+7 Com_bo_kho 15 0.000000

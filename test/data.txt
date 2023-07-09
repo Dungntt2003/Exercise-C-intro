@@ -1,0 +1,4 @@
+100 300 4 so co la
+101 400 10 chip chip
+104 500 7 banh kem
+106 800 1 banh keo

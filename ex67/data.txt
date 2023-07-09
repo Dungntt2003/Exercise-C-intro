@@ -1,0 +1,3 @@
+101 chocolate delicious 900 2
+102 chipchip cheap 34 2
+105 potato good 89 5
